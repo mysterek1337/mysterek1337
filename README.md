@@ -1,3 +1,3 @@
-                                                            README.md not completed
-                                                             ill complete it soon.
-                                                             progressbar1.Value(0);
+Hi there 👋
+I am inactive on Github!
+Discord: Mysterek!ٴ#9038
